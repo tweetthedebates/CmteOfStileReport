@@ -18,7 +18,7 @@ The House of Representatives shall choose their Speaker and other officers; and 
 
 **Sect. 3.** The Senate of the United States shall be composed of two senators from each state, chosen by the legislature thereof, for six years: and each senator shall have one vote.
 
-Immediately after they shall be assembled in consequence of the first election, they shall be divided [by lot] as equally as may be into three classes. The seats of the senators of the first class shall be vacated at the expiration of the second year, of the second class at the expiration of the fourth year, and of the third class at the expiration of the sixth year, so that one-third may be chosen every second year: and if vacancies happen by resignation, or otherwise, during the recess of the Legislature of any state, the Executive thereof may make temporary appointments until the next meeting of the Legislature.
+Immediately after they shall be assembled in consequence of the first election, they shall be divided as equally as may be into three classes. The seats of the senators of the first class shall be vacated at the expiration of the second year, of the second class at the expiration of the fourth year, and of the third class at the expiration of the sixth year, so that one-third may be chosen every second year: and if vacancies happen by resignation, or otherwise, during the recess of the Legislature of any state, the Executive thereof may make temporary appointments until the next meeting of the Legislature.
 
 No person shall be a senator who shall not have attained to the age of thirty years, and been nine years a citizen of the United States, and who shall not, when elected, be an inhabitant of that state for which he shall be chosen.
 
