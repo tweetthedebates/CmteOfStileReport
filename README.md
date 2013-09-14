@@ -54,7 +54,7 @@ Every order, resolution, or vote to which the concurrence of the Senate and Hous
 
 **Sect. 8.** 1) The Congress may by joint ballot appoint a treasurer. They shall have power
 
-2) To lay and collect taxes, duties, imposts and excises; to pay the debts and provide for the common defence and general welfare of the United States.
+2) To lay and collect taxes, duties, imposts and excises; to pay the debts and provide for the common defence and general welfare of the United States, but all such duties imposts & excises, shall be uniform throughout the United States.
 
 3) To borrow money on the credit of the United States.
 
