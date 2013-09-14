@@ -30,7 +30,7 @@ The Senate shall have the sole power to try all impeachments. When sitting for t
 
 Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States: but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment, according to law.
 
-**Sect. 4.** The times, places and manner of holding elections for senators and representatives, shall be prescribed in each state by the legislature thereof: but the Congress may at any time by law make or alter such regulations.
+**Sect. 4.** The times, places and manner of holding elections for senators and representatives, shall be prescribed in each state by the legislature thereof: but the Congress may at any time by law make or alter such regulations except as to the places of choosing Senators.
 
 The Congress shall assemble at least once in every year, and such meeting shall be on the first Monday in December, unless they shall by law appoint a different day.
 
