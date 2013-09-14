@@ -100,6 +100,8 @@ No capitation tax shall be laid, unless in proportion to the census herein befor
 
 No tax or duty shall be laid on articles exported from any state. Provided that no State shall be restrained from imposing the usual duties on produce exported from such State, for the sole purpose of defraying the charges of inspecting, packing, storing, and indemnifying the losses on such produce, while in the custody of public officers: but all such regulations shall in case of abuse, be subject to the revision and controul of Congress.
 
+No preference shall be given by any regulation of commerce or revenue to the ports of one State over those of another; nor shall vessels bound to or from one State, be obliged to enter, clear or pay duties in another.
+
 No money shall be drawn from the treasury, but in consequence of appropriations made by law.
 
 No title of nobility shall be granted by the United States. And no person holding any office of profit or trust under them, shall, without the consent of the Congress, accept of any present, emolument, office, or title, of any kind whatever, from any king, prince, or foreign state.
