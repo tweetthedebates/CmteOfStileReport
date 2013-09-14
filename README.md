@@ -84,7 +84,7 @@ Every order, resolution, or vote to which the concurrence of the Senate and Hous
 
 16) To provide for calling forth the militia to execute the laws of the union, suppress insurrections and repel invasions.
 
-17) To provide for organizing, arming and disciplining the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the States respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress.
+17) And that the liberties of the people may be better secured against the danger of standing armies in time of peace, to provide for organizing, arming and disciplining the militia, and for governing such part of them as may be employed in the service of the United States, reserving to the States respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress.
 
 18) To exercise exclusive legislation in all cases whatsoever, over such district (not exceeding ten miles square) as may, by cession of particular States, and the acceptance of Congress, become the seat of the government of the United States, and to exercise like authority over all places purchased by the consent of the legislature of the state in which the same shall be, for the erection of forts, magazines, arsenals, dock-yards, and other needful buildings -And
 
