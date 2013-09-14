@@ -66,7 +66,7 @@ Every order, resolution, or vote to which the concurrence of the Senate and Hous
 
 7) To provide for the punishment of counterfeiting the securities and current coin of the United States.
 
-8) To establish post offices and post roads.
+8) To establish post offices, post roads and a power to provide for cutting canals where deemed necessary.
 
 9) To promote the progress of science and useful arts, by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries.
 
