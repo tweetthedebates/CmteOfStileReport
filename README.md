@@ -38,7 +38,7 @@ The Congress shall assemble at least once in every year, and such meeting shall 
 
 Each house may determine the rules of its proceedings; punish its members for disorderly behaviour, and, with the concurrence of two-thirds, expel a member.
 
-Each house shall keep a journal of its proceedings, and from time to time publish the same, excepting such parts as may in their judgment require secrecy; and the yeas and nays of the members of either house on any question shall, at the desire of one-fifth of those present, be entered on the journal.
+Each house shall keep a journal of its proceedings, and from time to time publish the same, excepting such parts of the proceedings of the Senate as may in their judgment require secrecy; and the yeas and nays of the members of either house on any question shall, at the desire of one-fifth of those present, be entered on the journal.
 
 Neither house, during the session of Congress, shall, without the consent of the other, adjourn for more than three days, nor to any other place than that in which the two houses shall be sitting.
 
