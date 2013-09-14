@@ -102,7 +102,7 @@ No tax or duty shall be laid on articles exported from any state. Provided that 
 
 No preference shall be given by any regulation of commerce or revenue to the ports of one State over those of another; nor shall vessels bound to or from one State, be obliged to enter, clear or pay duties in another.
 
-No money shall be drawn from the treasury, but in consequence of appropriations made by law.
+No money shall be drawn from the treasury, but in consequence of appropriations made by law. And a regular statement and account of the recepits & expenditures of all public money shall be published from time to time
 
 No title of nobility shall be granted by the United States. And no person holding any office of profit or trust under them, shall, without the consent of the Congress, accept of any present, emolument, office, or title, of any kind whatever, from any king, prince, or foreign state.
 
