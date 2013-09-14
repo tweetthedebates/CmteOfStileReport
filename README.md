@@ -72,7 +72,7 @@ Every order, resolution, or vote to which the concurrence of the Senate and Hous
 
 10) To constitute tribunals inferior to the supreme court.
 
-11) To define and punish piracies and felonies committed on the high seas, and [punish] offences against the law of nations.
+11) To define and punish piracies and felonies committed on the high seas, and offences against the law of nations.
 
 12) To declare war, grant letters of marque and reprisal, and make rules concerning captures on land and water.
 
