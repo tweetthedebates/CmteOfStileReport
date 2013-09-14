@@ -94,7 +94,7 @@ Every order, resolution, or vote to which the concurrence of the Senate and Hous
 
 The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.
 
-No bill of attainder shall be passed, nor any ex post facto law.
+No bill of attainder shall be passed.
 
 No capitation tax shall be laid, unless in proportion to the census herein before directed to be taken.
 
