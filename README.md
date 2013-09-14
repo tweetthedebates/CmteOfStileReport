@@ -28,7 +28,7 @@ The Senate shall choose their other officers, and also a President pro tempore, 
 
 The Senate shall have the sole power to try all impeachments. When sitting for that purpose, they shall be on oath. When the President of the United States is tried, the Chief Justice shall preside: And no person shall be convicted without the concurrence of two-thirds of the members present.
 
-Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States: but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment, according to law.
+Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States: but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment, according to law.  Persons impeached are suspended from their office until they are tried and acquitted.
 
 **Sect. 4.** The times, places and manner of holding elections for senators and representatives, shall be prescribed in each state by the legislature thereof: but the Congress may at any time by law make or alter such regulations.
 
