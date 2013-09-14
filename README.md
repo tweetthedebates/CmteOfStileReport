@@ -22,11 +22,11 @@ Immediately after they shall be assembled in consequence of the first election, 
 
 No person shall be a senator who shall not have attained to the age of thirty years, and been nine years a citizen of the United States, and who shall not, when elected, be an inhabitant of that state for which he shall be chosen.
 
-The Vice-President of the United States shall be, ex officio President of the senate, but shall have no vote, unless they be equally divided.
+The Vice-President of the United States shall be, President of the senate, but shall have no vote, unless they be equally divided.
 
 The Senate shall choose their other officers, and also a President pro tempore, in the absence of the Vice-President, or when he shall exercise the office of President of the United States.
 
-The Senate shall have the sole power to try all impeachments. When sitting for that purpose, they shall be on oath. When the President of the United States is tried, the Chief Justice shall preside: And no person shall be convicted without the concurrence of two-thirds of the members present.
+The Senate shall have the sole power to try all impeachments. When sitting for that purpose, they shall be on oath or affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no person shall be convicted without the concurrence of two-thirds of the members present.
 
 Judgment in cases of impeachment shall not extend further than to removal from office, and disqualification to hold and enjoy any office of honor, trust or profit under the United States: but the party convicted shall nevertheless be liable and subject to indictment, trial, judgment and punishment, according to law.
 
