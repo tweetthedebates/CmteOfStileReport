@@ -96,7 +96,7 @@ The privilege of the writ of habeas corpus shall not be suspended, unless when i
 
 No bill of attainder shall be passed, nor any ex post facto law.
 
-No capitation tax shall be laid, unless in proportion to the census herein before directed to be taken.
+No capitation tax shall be laid, unless in proportion to the census or enumeration herein before directed to be taken.
 
 No tax or duty shall be laid on articles exported from any state. Provided that no State shall be restrained from imposing the usual duties on produce exported from such State, for the sole purpose of defraying the charges of inspecting, packing, storing, and indemnifying the losses on such produce, while in the custody of public officers: but all such regulations shall in case of abuse, be subject to the revision and controul of Congress.
 
