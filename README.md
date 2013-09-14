@@ -90,6 +90,8 @@ Every order, resolution, or vote to which the concurrence of the Senate and Hous
 
 19) To make all laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this constitution in the government of the United States, or in any department or officer thereof.
 
+20) To establish an University, in which no preferences or distinctions should be allowed on account of religion.
+
 **Sect. 9.** The migration or importation of such persons as the several states now existing shall think proper to admit, shall not be prohibited by the Congress prior to the year one thousand eight hundred and eight, but a tax or duty may be imposed on such importation, not exceeding ten dollars for each person.
 
 The privilege of the writ of habeas corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.
