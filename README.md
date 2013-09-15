@@ -163,7 +163,7 @@ IV
 
 **Sect. 2.** The citizens of each state shall be entitled to all privileges and immunities of citizens in the several states. A person charged in any state with treason, felony, or other crime, who shall flee from justice, and be found in another state, shall on demand of the executive authority of the state from which he fled be delivered up, and removed to the state having jurisdiction of the crime.
 
-No person legally held to service or labour in one state, escaping into another, shall in consequence of regulations subsisting therein be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labour may be due.
+No person held to service or labour in one state, under the laws thereof,  escaping into another, shall in consequence of regulations subsisting therein be discharged from such service or labor, but shall be delivered up on claim of the party to whom such service or labour may be due.
 
 **Sect. 3.** New states may be admitted by the Congress into this union; but no new state shall be formed or erected within the jurisdiction of any other state; nor any state be formed by the junction of two or more states, or parts of states, without the consent of the legislatures of the states concerned as well as of the Congress.
 
