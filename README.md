@@ -174,7 +174,7 @@ The Congress shall have power to dispose of and make all needful rules and regul
 V
 ======
 
-The Congress, whenever two-thirds of both houses shall deem necessary, or on the application of two-thirds of the legislatures of the several states, shall propose amendments to this constitution, which shall be valid to all intents and purposes, as part thereof, when the same shall have been ratified by three- fourths at least of the legislatures of the several states, or by conventions in three-fourths thereof, as the one or the other mode of ratification may be proposed by the Congress: Provided, that no amendment which may be made prior to the year 1808 shall in any manner affect the ----- and ----- section of ----- article
+The Congress, whenever two-thirds of both houses shall deem necessary, shall propose amendments to this constitution, or on the application of two-thirds of the legislatures of the several states, shall call a Convention for proposing Amendments, which, in either case, shall be valid to all intents and purposes, as part thereof, when the same shall have been ratified by three- fourths at least of the legislatures of the several states, or by conventions in three-fourths thereof, as the one or the other mode of ratification may be proposed by the Congress: Provided, that no amendment which may be made prior to the year 1808 shall in any manner affect the ----- and ----- section of ----- article
 
 VI
 =====
