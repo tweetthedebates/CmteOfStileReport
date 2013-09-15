@@ -133,7 +133,7 @@ Before he enter on the execution of his office, he shall take the following oath
 
 **Sect. 2.** The president shall be commander in chief of the army and navy of the United States, and of the militia of the several States: he may require the opinion, in writing, of the principal officer in each of the executive departments, upon any subject relating to the duties of their respective offices, when called into the actual service of the United States, and he shall have power to grant reprieves and pardons for offences against the United States, except in cases of impeachment.
 
-He shall have power, by and with the advice and consent of the senate, to make treaties, provided two-thirds of the senators present concur; and he shall nominate, and by and with the advice and consent of the senate, shall appoint ambassadors, other public ministers and consuls, judges of the supreme court, and all other officers of the United States, whose appointments are not herein otherwise provided for.
+He shall have power, by and with the advice and consent of the senate, to make treaties, provided two-thirds of the senators present concur; and he shall nominate, and by and with the advice and consent of the senate, shall appoint ambassadors, other public ministers and consuls, judges of the supreme court, and all other officers of the United States, whose appointments are not herein otherwise provided for: but the Congress may by law vest the appointment of such inferior officers as they think proper, in the President alone, in the Courts of law, or in the heads of Departments.
 
 The president shall have power to fill up all vacancies that may happen during the recess of the senate, by granting commissions which shall expire at the end of their next session.
 
