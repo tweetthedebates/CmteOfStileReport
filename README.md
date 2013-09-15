@@ -127,7 +127,7 @@ No person except a natural born citizen, or a citizen of the United States, at t
 
 In case of the removal of the president from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the vice-president, and the Congress may by law provide for the case of removal, death, resignation or inability, both of the president and vice-president, declaring what officer shall then act as president, and such officer shall act accordingly, until the disability be removed or a President shall be elected.
 
-The president shall, at stated times, receive a fixed compensation for his services, which shall neither be encreased nor diminished during the period for which he shall have been elected.
+The president shall, at stated times, receive a fixed compensation for his services, which shall neither be encreased nor diminished during the period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them.
 
 Before he enter on the execution of his office, he shall take the following oath or affirmation: "I --------, do solemnly swear (or affirm) that I will faithfully execute the office of president of the United States, and will to the best of my judgment and power, preserve, protect and defend the constitution of the United States."
 
