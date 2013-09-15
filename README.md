@@ -125,7 +125,7 @@ The Congress may determine the time of chusing the electors, and the time in whi
 
 No person except a natural born citizen, or a citizen of the United States, at the time of the adoption of this constitution, shall be eligible to the office of president; neither shall any person be eligible to that office who shall not have attained to the age of thirty-five years, and been fourteen years a resident within the United States.
 
-In case of the removal of the president from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the vice-president, and the Congress may by law provide for the case of removal, death, resignation or inability, both of the president and vice-president, declaring what officer shall then act as president, and such officer shall act accordingly, until the disability be removed, or the period for chusing another president arrive.
+In case of the removal of the president from office, or of his death, resignation, or inability to discharge the powers and duties of the said office, the same shall devolve on the vice-president, and the Congress may by law provide for the case of removal, death, resignation or inability, both of the president and vice-president, declaring what officer shall then act as president, and such officer shall act accordingly, until the disability be removed or a President shall be elected.
 
 The president shall, at stated times, receive a fixed compensation for his services, which shall neither be encreased nor diminished during the period for which he shall have been elected.
 
