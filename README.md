@@ -108,7 +108,7 @@ No title of nobility shall be granted by the United States. And no person holdin
 
 **Sect. 10.** No state shall coin money, nor emit bills of credit, nor make any thing but gold or silver coin a tender in payment of debts, nor pass any bill of attainder, nor ex post facto laws, nor laws altering or impairing the obligation of contracts; nor grant letters of marque and reprisal, nor enter into any treaty, alliance, or confederation, nor grant any title of nobility.
 
-No state shall, without the consent of Congress, lay imposts or duties on imports or exports, nor with such consent, but to the use of the treasury of the United States. Nor keep troops nor ships of war in time of peace, nor enter into any agreement or compact with another state, nor with any foreign power. Nor engage in any war, unless it shall be actually invaded by enemies, or the danger of invasion be so imminent, as not to admit of delay until the Congress can be consulted.
+No State shall, without the consent of Congress, lay any imposts or duties on imports or exports, except what may be absolutely necessary for executing its Inspection laws; and the nett produce of all duties and imposts, laid by any State on imports or exports, shall be for the use of the Treasury of the U. S; and all such laws shall be subject to the revision and controul of the Congress Nor keep troops nor ships of war in time of peace, nor enter into any agreement or compact with another state, nor with any foreign power. Nor engage in any war, unless it shall be actually invaded by enemies, or the danger of invasion be so imminent, as not to admit of delay until the Congress can be consulted.
 
 II
 ======
