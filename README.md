@@ -169,7 +169,7 @@ No person held to service or labour in one state, under the laws thereof,  escap
 
 The Congress shall have power to dispose of and make all needful rules and regulations respecting the territory or other property belonging to the United States: and nothing in this Constitution shall be so construed as to prejudice any claims of the United States, or of any particular state.
 
-**Sect. 4.** The United States shall guarantee to every state in this union a Republican form of government, and shall protect each of them against invasion; and on application of the legislature or executive, against domestic violence.
+**Sect. 4.** The United States shall guarantee to every state in this union a Republican form of government, and shall protect each of them against invasion; and on application of the legislature or executive (when the legislature cannot be convened), against domestic violence.
 
 V
 ======
